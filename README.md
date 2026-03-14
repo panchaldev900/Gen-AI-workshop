@@ -74,9 +74,10 @@ The notebooks demonstrate how **LLMs, RAG pipelines, fine-tuning methods, and da
 
 ---
 
-📌 Maintained By
+##📌 Maintained By
 
 This repository is maintained as part of a Generative AI workshop learning project and serves as a reference for experimenting with modern AI development techniques.
+
 ---
 
 ⭐ If you found this repository helpful, feel free to explore the notebooks and experiments.
