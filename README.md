@@ -1,6 +1,6 @@
 # 🚀 Generative AI Workshop – LLM, RAG & Fine-Tuning
 
-This repository contains hands-on notebooks and resources from a **3-Day Generative AI Workshop** conducted at my college.
+This repository contains hands-on notebooks and resources from a **3-Day Generative AI Workshop** conducted at my college.  
 The workshop focused on practical implementation of **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Model Fine-Tuning** using Python and modern AI libraries.
 
 ---
@@ -8,40 +8,37 @@ The workshop focused on practical implementation of **Large Language Models (LLM
 ## 📚 Topics Covered
 
 ### 🤖 Large Language Models (LLMs)
-
 Understanding how modern AI models process prompts and generate text.
 
 ### ⚡ Small Language Models (SLMs)
-
 Lightweight models designed for efficient AI applications.
 
 ### 🔎 Retrieval-Augmented Generation (RAG)
-
 Combining LLMs with external knowledge sources to generate more accurate and context-aware responses.
 
 ### 🎯 Fine-Tuning
-
 Customizing pre-trained models for specific tasks or datasets.
 
 ### 🗄 Database / Dataset Integration
-
 Using external datasets to support RAG pipelines and AI model experiments.
 
 ---
 
 ## 📂 Repository Structure
 
+```
 Gen-AI-Workshop/
 │
 ├── LLM_RAG/
-│ ├── llm_notebook.ipynb
-│ └── rag_notebook.ipynb
+│   ├── llm_notebook.ipynb
+│   └── rag_notebook.ipynb
 │
 ├── Fine_Tuning/
-│ ├── finetuning_notebook1.ipynb
-│ └── finetuning_notebook2.ipynb
+│   ├── finetuning_notebook1.ipynb
+│   └── finetuning_notebook2.ipynb
 │
 └── README.md
+```
 
 ---
 
@@ -51,19 +48,19 @@ The workshop used several **PDF datasets** to demonstrate Retrieval-Augmented Ge
 
 Due to large file sizes, the dataset files are hosted externally.
 
-Dataset access link:
+Dataset access link:  
 https://drive.google.com/drive/folders/10ROt3dXWHL5ZXLebRvEkzwDcRLkFOzF6?usp=drive_link
 
 ---
 
 ## 🛠 Technologies Used
 
-* Python
-* Jupyter Notebook
-* Google Colab
-* Hugging Face Transformers
-* Machine Learning Libraries
-* Generative AI tools and frameworks
+- Python  
+- Jupyter Notebook  
+- Google Colab  
+- Hugging Face Transformers  
+- Machine Learning Libraries  
+- Generative AI tools and frameworks  
 
 ---
 
@@ -76,7 +73,6 @@ The notebooks demonstrate how **LLMs, RAG pipelines, fine-tuning methods, and da
 ---
 
 ## 📌 Maintained By
-
 
 This repository is maintained as part of a **Generative AI workshop learning project** and serves as a reference for experimenting with modern AI development techniques.
 
