@@ -31,15 +31,15 @@ Using external datasets to support RAG pipelines and AI model experiments.
 
 ## 📂 Repository Structure
 
-Gen-AI-workshop
+Gen-AI-Workshop/
 │
-├── LLM_RAG
-│   ├── llm_notebook.ipynb
-│   ├── rag_notebook.ipynb
+├── LLM_RAG/
+│ ├── llm_notebook.ipynb
+│ └── rag_notebook.ipynb
 │
-├── Fine_Tuning
-│   ├── finetuning_notebook1.ipynb
-│   ├── finetuning_notebook2.ipynb
+├── Fine_Tuning/
+│ ├── finetuning_notebook1.ipynb
+│ └── finetuning_notebook2.ipynb
 │
 └── README.md
 
